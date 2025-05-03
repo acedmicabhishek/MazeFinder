@@ -153,5 +153,5 @@ if __name__ == "__main__":
     m.print()
     print(f"Solving using {algorithm.upper()}...")
     m.solve(algorithm)
-    print("Solved:")
+    print("Solved:")                                
     m.print()
